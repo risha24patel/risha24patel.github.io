@@ -23,5 +23,5 @@ No build step, package installation, API keys, or paid hosting are required. The
 
 ## Content notes
 
-Project artwork is illustrative, not screenshots of employer systems. Project descriptions reflect professional responsibilities. The financial analytics project identifies SQL and Tableau as its documented tools; the broader toolkit is listed separately. Update role dates when experience changes. The original resume PDF is excluded from the public upload.
+Project artwork is illustrative, not screenshots of employer systems. Project descriptions reflect professional responsibilities. The financial analytics project identifies SQL and Tableau as its documented tools; the broader toolkit is listed separately. Update role dates when experience changes. 
 
